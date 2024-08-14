@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a [color overlay for KDE](https://github.com/mattbyname/kolor-tint)
-- 🌱 I’m currently learning Golang and Fyne
+I'm a British philosophy academic who also does a bit of web development on the side and is a linux enthusiast.
+- 🔭 I maintain and develop a [color overlay for Gnome](https://github.com/mattbyname/color-tint)
 - 📃 I have a [website](https://mattbyname.github.io)
